@@ -12,8 +12,8 @@ To use this Docker image, follow these steps:
 Clone this repository to your local machine:
 
 ```bash
-    git clone https://github.com/yourusername/golang-server-docker.git
-    cd golang-server-docker
+    git clone https://github.com/ARUP-G/Docker-go-server.git
+    cd Docker-go-server
 ```
 
 ### Step 2: Build the Docker Image
