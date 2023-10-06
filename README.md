@@ -29,7 +29,7 @@ Run a Docker container from the image you just built:
 ```bash
     docker run -p 8080:8081 -it docker-go-server
 ```
-'-p' maps port 8081 from the container to port 9000 on your host machine.
+'-p' maps port 8081 from the container to port 8080 on your host machine.
 
 ### Step 4: Access the Golang Server
 You can access the Golang server by opening a web browser and navigating to http://localhost:8080 or using a tool like *'curl'*:
